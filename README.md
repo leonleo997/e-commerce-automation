@@ -1,6 +1,6 @@
 # e-commerce automation
 
-## Requiriments
+## Requirements
 
 You need to have installed:
 * Node Js: https://nodejs.org/es/download/
