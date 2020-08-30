@@ -1,4 +1,4 @@
-# e-commerce automation
+# E-commerce automation
 
 ## Requirements
 
@@ -7,7 +7,7 @@ You need to have installed:
 * Git: https://git-scm.com/downloads
 * Visual Studio Code: https://code.visualstudio.com/Download
 
-## Getting Started:
+## Getting Started
 
 Using CMD or your favorite shell: 
 1) Clone the repo: `git clone https://github.com/leonleo997/e-commerce-automation.git`
