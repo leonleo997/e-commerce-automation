@@ -1,4 +1,4 @@
-# E-commerce automation
+# E-Commerce Automation
 
 ## Requirements
 
