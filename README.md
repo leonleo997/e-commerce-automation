@@ -18,7 +18,7 @@ Using CMD or your favorite shell:
 
 ## Challenge
 
-Given the login.feature and a group of commands, create the login test for e-commerce application.
+Given the login.feature and a group of commands, create the login test for the e-commerce application.
 
 Commands:
 
